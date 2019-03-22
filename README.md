@@ -23,6 +23,9 @@ def teach_yourself(anything):
 
 teach_yourself(coding)
 ```
+```
+想知道这段话什么意思？
+```
 
 请先行阅读 [T-appendix.jupyter-installation-and-setup](T-appendix.jupyter-installation-and-setup.ipynb) 以便在本地安装 [Jupyterlab](https://github.com/jupyterlab/jupyterlab) 而后用更好的体验阅读本书。
 
